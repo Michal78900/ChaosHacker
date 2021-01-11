@@ -1,6 +1,6 @@
 # ChaosHacker
 
-
+Plugin that add a chance to spawn Chaos Hacker - he has ability to remotly interact with a listed doors.
 
 # Config
 ```yml
